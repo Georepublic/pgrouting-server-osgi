@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.pde.ui.EquinoxLauncher">
+<booleanAttribute key="append.args" value="true"/>
+<booleanAttribute key="automaticAdd" value="true"/>
+<booleanAttribute key="automaticValidate" value="false"/>
+<stringAttribute key="bootstrap" value=""/>
+<stringAttribute key="checked" value="[NONE]"/>
+<booleanAttribute key="clearConfig" value="false"/>
+<stringAttribute key="configLocation" value="${workspace_loc}/.metadata/.plugins/org.eclipse.pde.core/Simple Servlet (OSGi)"/>
+<booleanAttribute key="default_auto_start" value="true"/>
+<intAttribute key="default_start_level" value="4"/>
+<stringAttribute key="deselected_workspace_plugins" value="de.itemis.mobilizer.appmodel.generator,osgi.helloworld,com.vaadin.osgi,org.xpand.example.gettingstarted,de.itemis.mobilizer.mobilizerdsl.ui,de.itemis.mobilizer.core.generator,com.appa.tools.test,vaadin.helloworld,com.appa.wizard.test,vaadin.helloworld.mwe,com.appa.tools,de.itemis.mobilizer.pbxproj,de.itemis.mobilizer.core,de.itemis.mobilizer.mobilizerdsl.generator,com.appa.wizard.theme,de.itemis.mobilizer.pbxproj.ui,com.google.guava,de.itemis.mobilizer.appmodel,de.itemis.mobilizer.appmodel.ui,com.appa.wizard,VaadinWithMWEGenerator,de.itemis.mobilizer.core.ui,de.itemis.mobilizer.pbxproj.generator,de.itemis.mobilizer.mobilizerdsl,net.java.rome,net.java.rome.modules,com.vaadin"/>
+<booleanAttribute key="includeOptional" value="true"/>
+<listAttribute key="org.eclipse.debug.ui.favoriteGroups">
+<listEntry value="org.eclipse.debug.ui.launchGroup.run"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-os ${target.os} -ws ${target.ws} -arch ${target.arch} -nl ${target.nl} -consoleLog"/>
+<stringAttribute key="org.eclipse.jdt.launching.SOURCE_PATH_PROVIDER" value="org.eclipse.pde.ui.workbenchClasspathProvider"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Declipse.ignoreApp=true -Dosgi.noShutdown=true -Dorg.osgi.service.http.port=8080"/>
+<stringAttribute key="pde.version" value="3.3"/>
+<booleanAttribute key="show_selected_only" value="false"/>
+<stringAttribute key="target_bundles" value="org.mortbay.jetty.util@default:default,org.eclipse.osgi@-1:true,org.eclipse.equinox.http.servlet@default:default,org.eclipse.osgi.services@default:default,org.mortbay.jetty.server@default:default,javax.servlet@default:default,org.eclipse.equinox.http.jetty@default:default"/>
+<booleanAttribute key="tracing" value="false"/>
+<booleanAttribute key="useDefaultConfigArea" value="true"/>
+<stringAttribute key="workspace_bundles" value="simple.servlet@default:default"/>
+</launchConfiguration>

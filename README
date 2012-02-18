@@ -1,0 +1,24 @@
+#
+# p g R o u t i n g   S e r v e r
+# Copyright(c) 2012 Georepublic 
+#
+
+About
+=====
+
+
+Requirements
+============
+
+- Install script written for Ubuntu 11.10
+- ...
+
+
+Installation
+============
+
+cd ./setup
+./install_packages.sh
+./install_data.sh
+
+
